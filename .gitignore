@@ -18,5 +18,4 @@ _book
 
 # Danger
 .env
-.env.template
 .env/
